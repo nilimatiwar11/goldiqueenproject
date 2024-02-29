@@ -1,0 +1,1113 @@
+@media(max-width:1600px){
+    .social__widgets__bottom{
+        height: 197px;
+    }
+    .thumbnail:hover .slider__content {
+        top: 342px;
+        transition: all 0.5s ease;
+    }
+    .fame__profile__grid {
+        margin-top: 80px;  
+}
+.map-content-9.register {
+    width: 65%;
+    top: 55%;
+}
+.white__section {
+    height: 530px;
+}
+}
+@media(max-width:1440px){
+    .thank__you img{
+        width:40%;
+    }
+    .thank__you h2{
+        font-size: 28px;
+    }
+    .thank__you p{
+        font-size: 20px;
+    }
+    .radio__inputs input {
+        width: 20px!important;
+        height: 20px!important;
+    }
+    .register__now__section h2{
+        font-size: 33px;
+    }
+    .register__now__section {
+        padding: 3% 0 30% 0;
+    }
+    .myaccordion .fa-stack {
+        font-size: 14px;
+    }
+    
+    .myaccordion .card-header {
+        padding: 5px 20px;
+    }
+    .myaccordion .btn{
+        font-size: 17px;
+    }
+    .card-body li {
+        font-size: 15px;
+    }
+    .myaccordion .card {
+        margin-bottom: 40px;
+    }
+    .faq__accordian p {
+        font-size: 16px;
+        text-align: center;
+        font-weight: 400;
+    }
+    select.form-control:not([size]):not([multiple]){
+        padding: 6px 15px;   
+    }
+    .what__you__win .home__content__boxes {
+        grid-auto-rows: minmax(190px, auto);
+        grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    }
+    .what__you__win .home__content__boxes .content__box strong{
+        font-size: 25px;
+    }
+    h2.common__heading{
+        font-size: 30px;
+    }
+    .home__video h4{
+        font-size: 24px;
+    }
+    .about__goldee__queen::after{
+        top:23%;
+    }
+    .wall__of__fame .wall__of__fame__slider .bx-wrapper .bx-controls-direction a {
+        margin-top: -265px;
+    }
+    .social__widgets__bottom {
+        height: 199px;
+    }
+    .what__you__win .home__content__boxes .content__box p{
+        font-size: 17px;
+    }
+    .home__video h4 span{
+        font-weight: 500;
+    }
+    button.register__now {
+        font-size: 19px;
+        padding: 7px 30px;
+    }
+    .thumbnail:hover .slider__content {
+        top: 236px;
+        transition: all 0.5s ease;
+    }
+
+    .participate h3{
+        font-size: 20px;
+    }
+    .thumbnail:hover .slider__content {
+        top: 266px;
+        transition: all 0.5s ease;
+    }
+    .fame__profile__grid {
+        margin-top: 80px;  
+}
+.wall__profile__popup{
+    width:65%;
+}
+.profile__grid__content h2 strong{
+    font-size: 19px;
+}
+.profile__grid__content h2 {
+    font-size: 17px;
+}
+.profile__grid__content p {
+    font-size: 15px;
+    line-height: 24px;
+}
+.profile__right__content h1 {
+    font-size: 22px;
+}
+.profile__right__content span {
+    font-size: 17px;
+}
+.has-search .form-control{
+    padding: 6px 20px;  
+}
+.has-search .form-control-feedback{
+    top:0;
+}
+}
+
+@media(max-width:1366px){
+    .profile__right__content h1 {
+        font-size: 22px;
+    }
+    .wall__profile__popup .close {
+        height: 40px;
+        width: 40px;
+        background-size: contain;
+    }
+    .profile__right__content span {
+        font-size: 17px;
+    }
+    .custom__container {
+        max-width: 85%;
+        margin: 0 auto;
+    }
+    .fame__profile__grid {
+        margin-top: 80px;
+    }
+    .faq__accordian p {
+        font-size: 16px;
+        text-align: center;
+        font-weight: 400;
+    }
+    .button__section button.register__now{
+        font-size: 20px;
+    }
+    .home__video h4 span{
+        font-weight: 500;
+    }
+    .what__you__win .home__content__boxes {
+        grid-auto-rows: minmax(145px, auto);
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    }
+    .what__you__win .home__content__boxes .content__box strong{
+        font-size: 22px;
+    }
+    h2.common__heading{
+        font-size: 27px;
+    }
+    .home__video h4{
+        font-size: 24px;
+    }
+    .about__goldee__queen::after{
+        top:23%;
+    }
+    .wall__of__fame .wall__of__fame__slider .bx-wrapper .bx-controls-direction a {
+        margin-top: -240px;
+    }
+    .social__widgets__bottom {
+        height: 199px;
+    }
+    .what__you__win .home__content__boxes .content__box p{
+        font-size: 17px;
+    }
+    .home__video a{
+        font-size: 16px;
+    }
+    .participate .participate__bg .participate__bg__content h4 {
+        font-size: 21px;
+        line-height: 50px;
+    }
+    .participate h3{
+        font-size: 20px;
+    }
+    button.register__now {
+        font-size: 19px;
+        padding: 7px 30px;
+    }
+    .thumbnail:hover .slider__content {
+        top: 236px;
+        transition: all 0.5s ease;
+    }
+}
+
+@media(max-width:1280px){
+    .about__us img {
+        width: 50%;
+        margin: 100px auto 19px;
+    }
+    .home__video h4 span{
+        font-weight: 500;
+    }
+    .what__you__win .home__content__boxes {
+        grid-auto-rows: minmax(145px, auto);
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    }
+    .what__you__win .home__content__boxes .content__box strong{
+        font-size: 22px;
+    }
+    h2.common__heading{
+        font-size: 27px;
+    }
+    .home__video h4{
+        font-size: 24px;
+    }
+    .about__goldee__queen::after{
+        top:23%;
+    }
+    .wall__of__fame .wall__of__fame__slider .bx-wrapper .bx-controls-direction a {
+        margin-top: -240px;
+    }
+    .social__widgets__bottom {
+        height: 199px;
+    }
+    .what__you__win .home__content__boxes .content__box p{
+        font-size: 17px;
+    }
+    .home__video a{
+        font-size: 16px;
+    }
+    .participate .participate__bg .participate__bg__content h4 {
+        font-size: 21px;
+        line-height: 50px;
+    }
+
+    .participate h3{
+        font-size: 20px;
+    }
+    button.register__now {
+        font-size: 19px;
+        padding: 7px 30px;
+    }
+    .thumbnail:hover .slider__content {
+        top: 213px;
+        transition: all 0.5s ease;
+    }
+    .what__you__win h4{
+        font-size: 22px;
+    }
+}
+
+@media(max-width:1101px){
+    .dlflex {
+        padding: 0 20px 0 20px;
+    }
+    .white__section {
+        height: 400px;
+    }
+    .map-content-9.register {
+        width: 80%;
+        top: 45%;
+    }
+    .register__now__section {
+        padding: 3% 0 45% 0;
+    }
+    .fame__profile__grid {
+        grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+        grid-gap: 25px;
+        margin-top: 50px;
+    }
+    select.form-control:not([size]):not([multiple]) {
+        padding:6px 15px;
+    }
+    .form-group{
+        margin-bottom: 0;
+    }
+    .twice-two{
+        margin-bottom: 15px;
+    }
+    .twice {
+        margin-bottom: 15px;
+    }
+    .map-content-9 form input, .map-content-9 form textarea, .map-content-9 form select{
+        font-size: 18px;
+    }
+    .map-content-9 form textarea {
+        min-height: 110px;
+    }
+    .map-content-9 {
+        padding: 30px;
+    }
+    .about__us img {
+        width: 50%;
+        margin: 75px auto 19px;
+    }
+    .home__video h4 span{
+        font-weight: 500;
+    }
+    .what__you__win .home__content__boxes {
+        grid-auto-rows: minmax(145px, auto);
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    }
+    .what__you__win .home__content__boxes .content__box strong{
+        font-size: 22px;
+    }
+    h2.common__heading{
+        font-size: 27px;
+    }
+    .home__video h4{
+        font-size: 24px;
+    }
+    .about__goldee__queen::after{
+        top:25%;
+    }
+    .wall__of__fame .wall__of__fame__slider .bx-wrapper .bx-controls-direction a {
+        margin-top: -210px;
+    }
+    .social__widgets__bottom {
+        height: 199px;
+    }
+    .what__you__win .home__content__boxes .content__box p{
+        font-size: 17px;
+    }
+    .home__video a{
+        font-size: 16px;
+    }
+    .participate .participate__bg .participate__bg__content h4 {
+        font-size: 21px;
+        line-height: 50px;
+    }
+
+    .participate h3{
+        font-size: 20px;
+    }
+    button.register__now {
+        font-size: 19px;
+        padding: 7px 30px;
+    }
+    .thumbnail:hover .slider__content {
+        top: 155px;
+        transition: all 0.5s ease;
+    }
+    .what__you__win h4{
+        font-size: 22px;
+    }
+    .participate__grid {
+        grid-auto-rows: minmax(202px, auto);
+        grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+        grid-gap: 8px;
+    }
+    .thumbnail .slider__content p {
+        padding-left: 80px;
+    }
+    button.read__more{
+        padding: 7px 10px 7px 80px;
+    }
+    .slide__description{
+        right:58%;
+    }
+}
+
+@media(max-width:1100px){
+    .has-search .form-control {
+        width: 35%;
+    }
+    .home__video h4 span{
+        font-weight: 500;
+    }
+    .what__you__win .home__content__boxes {
+        grid-auto-rows: minmax(145px, auto);
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    }
+    .what__you__win .home__content__boxes .content__box strong{
+        font-size: 22px;
+    }
+    h2.common__heading{
+        font-size: 27px;
+    }
+    .home__video h4{
+        font-size: 24px;
+    }
+    .about__goldee__queen::after{
+        top:25%;
+    }
+    .wall__of__fame .wall__of__fame__slider .bx-wrapper .bx-controls-direction a {
+        margin-top: -210px;
+    }
+    .social__widgets__bottom {
+        height: 199px;
+    }
+    .what__you__win .home__content__boxes .content__box p{
+        font-size: 17px;
+    }
+    .home__video a{
+        font-size: 16px;
+    }
+    .participate .participate__bg .participate__bg__content h4 {
+        font-size: 21px;
+        line-height: 50px;
+    }
+
+    .participate h3{
+        font-size: 20px;
+    }
+    button.register__now {
+        font-size: 19px;
+        padding: 7px 30px;
+    }
+    .thumbnail:hover .slider__content {
+        top: 155px;
+        transition: all 0.5s ease;
+    }
+    .what__you__win h4{
+        font-size: 22px;
+    }
+    .participate__grid {
+        grid-auto-rows: minmax(202px, auto);
+        grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+        grid-gap: 8px;
+    }
+    .thumbnail .slider__content p {
+        padding-left: 80px;
+    }
+    button.read__more{
+        padding: 7px 10px 7px 80px;
+    }
+    .slide__description{
+        right:58%;
+    }
+}
+
+@media(max-width:1024px){
+    .thank__you img {
+        width: 35%;
+    }
+    .thank__you h2 {
+        font-size: 26px;
+    }
+    .thank__you p {
+        font-size: 18px;
+    }
+    .contact__us.faq h4 {
+        font-size: 20px;
+    }
+    .grid h1 {
+        line-height: 33px;
+        font-size: 24px;
+    }
+    .grid .overlay .new h2 {
+        line-height: 33px;
+        font-size: 24px;
+    }
+    .button__section button.register__now {
+        font-size: 18px;
+    }
+    .about__us h4{
+        font-size: 28px;
+    }
+    .slide__description h2{
+        font-size: 24px;
+    }
+    .slide__description h2 strong {
+        font-size: 37px;
+    }
+
+    .social__widgets ul li{
+        height: 400px;
+    }
+    .home__video h4 span{
+        font-weight: 500;
+    }
+    .what__you__win .home__content__boxes {
+        grid-auto-rows: minmax(145px, auto);
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    }
+    .what__you__win .home__content__boxes .content__box strong{
+        font-size: 22px;
+    }
+    h2.common__heading{
+        font-size: 24px;
+    }
+    .home__video h4{
+        font-size: 20px;
+    }
+    .about__goldee__queen::after{
+        top:25%;
+    }
+    .wall__of__fame .wall__of__fame__slider .bx-wrapper .bx-controls-direction a {
+        margin-top: -210px;
+    }
+    .social__widgets__bottom {
+        height: 118px;
+    }
+    .what__you__win .home__content__boxes .content__box p{
+        font-size: 17px;
+    }
+    .home__video a{
+        font-size: 16px;
+    }
+    .participate .participate__bg .participate__bg__content h4 {
+        font-size: 21px;
+        line-height: 50px;
+    }
+
+    .participate h3{
+        font-size: 20px;
+    }
+    button.register__now {
+        font-size: 19px;
+        padding: 7px 30px;
+    }
+    .thumbnail:hover .slider__content {
+        top: 131px;
+        transition: all 0.5s ease;
+    }
+    .what__you__win h4{
+        font-size: 22px;
+    }
+    .participate__grid {
+        grid-auto-rows: minmax(202px, auto);
+        grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+        grid-gap: 8px;
+    }
+    .thumbnail .slider__content p {
+        padding-left: 80px;
+    }
+    button.read__more{
+        padding: 7px 10px 7px 80px;
+    }
+    .slide__description{
+        right:58%;
+    }
+    .logo__section img{
+        width: 17%;
+    }
+    .header .navbar-light .navbar-nav .nav-link {
+        padding: .5rem 1rem;
+        letter-spacing: 1px;
+    }
+}
+@media only screen and (max-width:800px) {
+    .dlflex {
+        padding: 0 10px 0 10px;
+    }
+    .participate__phases .tab-content .phase__content {
+        grid-auto-rows: minmax(271px, auto);
+        grid-template-columns: repeat(auto-fill, minmax(265px, 1fr));
+        grid-gap: 20px;
+    }
+    .upload__files label{
+        float:left;
+    }
+    .upload__files input {
+        width: 100%!important;
+    }
+    .upload__files {
+        display: block;
+        width: 100%;
+    }
+    .map-content-9.register{
+        padding:35px;
+    }
+    .register__now__section h2 {
+        font-size: 30px;
+    }
+    .register__now__section p {
+        margin-bottom: 20px!important;
+    }
+    .register__now__section {
+        padding: 6% 0 45% 0;
+    }
+    .faq__accordian {
+        padding: 7% 0;
+    } 
+    .button__section button.register__now {
+        margin:0 5px;
+    }
+    .header{
+        display: block;
+    }
+    .navbar{
+        z-index: 11;
+    }
+    .slide__description h2 {
+        font-size: 20px;
+    }
+    .slide__description h2 strong {
+        font-size: 32px;
+    }
+    .what__you__win .home__content__boxes {
+        grid-auto-rows: minmax(145px, auto);
+        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    }
+    h2.common__heading {
+        font-size: 22px;
+    }
+    h2.common__heading::after {
+        left: 50%;
+    }
+    .about__goldee__queen::after {
+        height: 54%;
+    }
+    .participate__grid {
+        grid-auto-rows: minmax(150px, auto);
+        grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+        grid-gap: 5px;
+    }
+    .participate .participate__bg .participate__bg__content h4 {
+        font-size: 18px;
+        line-height: 31px;
+    }
+    .participate h3 {
+        font-size: 16px;
+        margin:30px 0;
+    }
+     button.register__now {
+        font-size: 16px;
+        padding: 7px 30px;
+    }
+    .wall__of__fame__slider {
+        margin-top: 70px;
+    }
+    .wall__of__fame .wall__of__fame__slider .bx-wrapper .bx-controls-direction a {
+        margin-top: -140px;
+    }
+    .social__widgets ul li{
+        height: 400px;
+    }
+    .thumbnail img{
+        width:100%;
+    }
+    .thumbnail:hover .slider__content {
+        top: 773px;
+        transition: all 0.5s ease;
+    }
+
+    .content__grid {
+        grid-auto-rows: minmax(230px, auto);
+    }
+    img.profile__bg {
+        display: none;
+    }
+    .profile__right__content {
+        width: 90%;
+        padding: 20px;
+    }
+    .content__grid {
+        grid-auto-rows: minmax(270px, auto);
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .home__video h4{
+        line-height: 30px;
+    }
+    .home__video p{
+        margin: 10px 0 10px 0;
+    }
+    .participate__phases .tab-content .phase__content {
+        grid-auto-rows: minmax(200px, auto);
+    }
+    .map-content-9 form input, .map-content-9 form textarea, .map-content-9 form select {
+        font-size: 15px;
+    }
+    .map-content-9.register {
+        width: 80%;
+        top: 55%;
+    }
+    .twice-two.mb-5 {
+        margin-bottom:25px!important ;
+    }
+    .profile__right__content h1 {
+        font-size: 25px;
+        font-weight: 700;
+    }
+    .map-content-9 {
+        padding: 15px;
+    }
+    .map-content-9 form input, .map-content-9 form textarea, .map-content-9 form select{
+        height:35px;
+    }
+    select.form-control:not([size]):not([multiple]) {
+        padding: 3px 15px;
+        height:35px!important;
+    }
+    button.btn-contact{
+        font-size: 16px;
+        margin: 15px auto 0;
+    }
+    .twice {
+        margin-bottom: 10px;
+    }
+    .twice-two {
+        margin-bottom: 10px;
+    }
+    .map-content-9 form textarea {
+        min-height: 80px;
+    }
+    .grid h1 {
+        line-height: 33px;
+        font-size: 25px;
+    }
+    .grid .overlay .new h2 {
+        line-height: 30px;
+        font-size: 22px;
+    }
+    .button__section button.register__now {
+        font-size: 17px;
+    }
+    .header .navbar .navbar-collapse{
+        margin-top: 9px;
+        background: #ffff; 
+    }
+    .register__view{
+        box-shadow:none!important;
+    }
+}
+
+@media only screen and (max-width:500px) {
+    .participate__phases .tab-content{
+        padding:30px;
+    }
+    .participate__phases {
+        margin-top: 40px;
+    }
+    .contact__us{
+        padding:10% 0;
+    }
+    .participate__phases .tab-content{
+        margin-top: 0px;
+    }
+    .thank__you img {
+        width: 50%;
+    }
+    .thank__you h2 {
+        font-size: 22px;
+    }
+    .thank__you p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .register__now__section {
+        padding: 6% 0 15% 0;
+    }
+    .register__now__section h2 {
+        font-size: 26px;
+    }
+    .map-content-9.register{
+        position: unset;
+        box-shadow: none;
+        transform: translate(0, 0);
+        width: 90%;
+        margin: 0 auto;
+        padding: 25px;
+    }
+    .white__section{
+        display: none;
+    }
+    .register__now__section{
+        height: auto;
+        position:unset;
+    }
+    .map-content-9 form input, .map-content-9 form textarea, .map-content-9 form select {
+        height: 40px;
+    }
+    .register .twice-two select.form-control:not([size]):not([multiple]) {
+        padding: 3px 15px;
+        height: 40px!important;
+        margin-bottom: 10px;
+    }
+    .radio__inputs {
+        display: flex;
+        justify-content: end;
+        align-items: center;
+    }
+    .register .twice-two{
+        display: block;
+    }
+    .register .twice-two input{
+        margin-bottom: 10px;
+    }
+    
+    .register .twice-two .radio__inputs input{
+        margin-bottom: 0;
+    }
+    .wall__of__profile{
+        padding:10% 0;
+    }
+    .profile__search {
+        margin-top: 45px;
+    }
+    .has-search .form-control {
+        width: 100%;
+        padding: 8px 20px;
+    }
+    br.dlnone{
+        display: block;
+    }
+    .faq__accordian p {
+        font-size: 15px;
+        text-align: center;
+        font-weight: 400;
+        line-height: 23px;
+        padding: 0 10px;
+    }
+    .myaccordion .fa-stack {
+        font-size: 12px;
+    }
+    .myaccordion .btn {
+        font-size: 16px;
+        text-align: left;
+    }
+    .card-body li {
+        font-size: 14px;
+        margin-bottom: 0px;
+        line-height: 24px;
+    }
+    .contact__us.faq h4 {
+        font-size: 17px;
+        margin-top: 30px;
+    } 
+    .contact__us.faq{
+        padding:7% 0;
+    }
+    .map-content-9 {
+        padding: 25px;
+    }
+    .contact-view{
+        margin-top: 65px;
+        grid-template-columns: inherit;
+    }
+    .cont-details{
+        display: none;
+    }
+    .what__you__win p {
+        margin: 10px 0 15px 0;
+    }
+    .about__goldee__queen::after{
+        display: none;
+    }
+    .home__video {
+        margin-top: 50px;
+    }
+    .participate .participate__bg .participate__bg__content h4 {
+        font-size: 18px;
+        line-height: 43px;
+    }
+    .participate__grid {
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+        margin-top: 5px;
+    }
+    .participate h3 {
+        font-size: 16px;
+        margin: 20px 0;
+        line-height: 26px;
+        padding: 0 10px;
+    }
+    .wall__of__fame__slider {
+        margin-top: 50px;
+    }
+
+    img.scroll__down{
+        display: none;
+    }
+    .order1{
+        order: 2;
+    }
+    .order2{
+        order: 1;
+    }
+    .home__video h4 {
+        margin-top: 20px;
+    }
+    .button__section button.register__now {
+        font-size: 14px;
+        padding: 10px 25px;
+        margin: 5px 0;
+    }
+    .header .navbar .navbar-collapse{
+        margin-top: 9px;
+        background: #ffff; 
+    }
+    h2.common__heading::after {
+        top: 175%;
+        width: 200px;
+        height: 30px;
+        transform: translate(-50%, -50%);
+        background-size: contain;
+    }
+    .about__us h4 {
+        font-size: 24px;
+    }
+    .logo__section p{
+        display:block;
+        margin-right: 0;
+    }
+    .logo__section img{
+        width: 30%;
+    }
+    .footer__nav {
+        margin-top: 15px;
+    }
+    .content__grid {
+        grid-auto-rows: minmax(315px, auto);
+    }
+    .wall__profile__popup {
+        width: 95%;
+    }
+    .profile__right__content {
+        width: 100%;
+        padding: 10px;
+    }
+    .has-search .form-control-feedback{
+        z-index: 0;
+    }
+    .wall__profile__popup__overlay{
+        z-index: 111;
+    }
+    .profile__right__content h1 {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .profile__right__content span{
+        font-size: 17px;
+    }
+    .profile__right__content p{
+        margin-top: 10px;
+    }
+    .wall__profile__popup .close {
+        height: 30px;
+        width: 30px;
+        right:-6px;
+    }
+}
+
+@media only screen and (max-width:400px) { 
+    .participate__phases ul.nav-tabs .nav-link{
+        padding: .5rem .5rem;
+    }
+    .digit_new{
+        margin-top: 10px;
+    }
+    .twice-two{
+        display: block;
+        grid-gap: 0;
+    }
+    button.btn-contact {
+        padding: 7px 28px;
+    }
+    .contact__us{
+        padding:10% 0;
+    }
+    .map-content-9 {
+        padding: 25px;
+    }
+    .contact-view{
+        margin-top: 65px;
+        grid-template-columns: inherit;
+    }
+    .what__you__win p {
+        margin: 10px 0 15px 0;
+    }
+    .about__goldee__queen::after{
+        display: none;
+    }
+    .home__video {
+        margin-top: 50px;
+    }
+    .participate .participate__bg .participate__bg__content h4 {
+        font-size: 18px;
+        line-height: 43px;
+    }
+    .participate__grid {
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+        margin-top: 5px;
+    }
+    .participate h3 {
+        font-size: 16px;
+        margin: 20px 0;
+        line-height: 26px;
+        padding: 0 10px;
+    }
+    .wall__of__fame__slider {
+        margin-top: 50px;
+    }
+
+    .button__section button.register__now {
+        font-size: 14px;
+        padding: 10px 25px;
+        margin: 5px 0;
+    }
+    .header .navbar .navbar-collapse{
+        margin-top: 9px;
+        background: #ffff; 
+    }
+    h2.common__heading::after {
+        width: 200px;
+        height: 30px;
+        transform: translate(-50%, -50%);
+        background-size: contain;
+    }
+    .about__us h4 {
+        font-size: 24px;
+    }
+    .logo__section p{
+        display:block;
+        margin-right: 0;
+    }
+    .logo__section img{
+        width: 30%;
+    }
+    .footer__nav {
+        margin-top: 15px;
+    }
+    .footer__nav {
+        margin-top: 15px;
+        padding: 0 10px;
+    }
+}
+
+@media only screen and (max-width:320px) { 
+    .thank__you img {
+        width: 75%;
+    }
+    .what__you__win p {
+        margin: 10px 0 15px 0;
+    }
+    .about__goldee__queen::after{
+        display: none;
+    }
+    .home__video {
+        margin-top: 50px;
+    }
+    .participate .participate__bg .participate__bg__content h4 {
+        font-size: 18px;
+        line-height: 43px;
+    }
+    .participate__grid {
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+        margin-top: 5px;
+    }
+    .participate h3 {
+        font-size: 16px;
+        margin: 20px 0;
+        line-height: 26px;
+        padding: 0 10px;
+    }
+    .wall__of__fame__slider {
+        margin-top: 50px;
+    }
+
+    .button__section button.register__now {
+        font-size: 14px;
+        padding: 10px 25px;
+        margin: 5px 0;
+    }
+    .header .navbar .navbar-collapse{
+        margin-top: 9px;
+        background: #ffff; 
+    }
+    h2.common__heading::after {
+        width: 200px;
+        height: 30px;
+        transform: translate(-15%, 80%);
+        background-size: contain;
+    }
+    .about__us h4 {
+        font-size: 24px;
+    }
+    .logo__section p{
+        display:block;
+        margin-right: 0;
+    }
+    .logo__section img{
+        width: 30%;
+    }
+    .footer__nav {
+        margin-top: 15px;
+    }
+    .footer__nav {
+        margin-top: 15px;
+        padding: 0 10px;
+    }
+    h2.common__heading::after {
+        left: 50%;
+        top: 100%;
+        transform: translate(-50%, 0);
+    }
+    .participate__phases .tab-content {
+        padding: 10px;
+    }
+    .participate__phases .tab-content .phase__content{
+        grid-gap:5px;
+    }
+}
